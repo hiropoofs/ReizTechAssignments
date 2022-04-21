@@ -1,0 +1,2 @@
+# ReizTechAssignments
+1REIZ TECH. All rights reserved. Confidential InformationREIZ TECH HOMEWORK ASSIGNMENT DOCUMENT FOR THE .NET DEVELOPER INTERN POSITION
