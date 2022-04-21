@@ -1,0 +1,15 @@
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.exe
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.deps.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.runtimeconfig.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.csproj.AssemblyReference.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.GeneratedMSBuildEditorConfig.editorconfig
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfoInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfo.cs
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.csproj.CoreCompileInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\refint\HierarchicalStructure.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.genruntimeconfig.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\ref\HierarchicalStructure.dll

@@ -1,0 +1,15 @@
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClocktASK.exe
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClocktASK.deps.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClocktASK.runtimeconfig.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClocktASK.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClocktASK.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.csproj.AssemblyReference.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.GeneratedMSBuildEditorConfig.editorconfig
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.AssemblyInfoInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.AssemblyInfo.cs
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.csproj.CoreCompileInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\refint\AnalogueClocktASK.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.genruntimeconfig.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\ref\AnalogueClocktASK.dll
