@@ -13,3 +13,18 @@ O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net
 O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.pdb
 O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClocktASK.genruntimeconfig.cache
 O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\ref\AnalogueClocktASK.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClockTask.exe
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClockTask.deps.json
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClockTask.runtimeconfig.json
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClockTask.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\bin\Debug\net6.0\AnalogueClockTask.pdb
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.csproj.AssemblyReference.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.AssemblyInfoInputs.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.AssemblyInfo.cs
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.csproj.CoreCompileInputs.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\refint\AnalogueClockTask.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.pdb
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\AnalogueClockTask.genruntimeconfig.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\AnalogueClock\obj\Debug\net6.0\ref\AnalogueClockTask.dll

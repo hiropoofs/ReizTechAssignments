@@ -13,3 +13,18 @@ O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Deb
 O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.pdb
 O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.genruntimeconfig.cache
 O:\Semestras4\OP2\K2\K2 Pavyzdys\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\ref\HierarchicalStructure.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.exe
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.deps.json
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.runtimeconfig.json
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\bin\Debug\net6.0\HierarchicalStructure.pdb
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.csproj.AssemblyReference.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfoInputs.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfo.cs
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.csproj.CoreCompileInputs.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\refint\HierarchicalStructure.dll
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.pdb
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\HierarchicalStructure.genruntimeconfig.cache
+C:\Users\ssims\Source\Repos\hiropoofs\ReizTechAssignments\ReizTechAssignments\obj\Debug\net6.0\ref\HierarchicalStructure.dll
