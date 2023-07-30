@@ -22,7 +22,7 @@ This program calculates the maximum depth of a hierarchical structure represente
 
 The `RecursiveMethodMeasureDepth` method uses a regular `for` loop to iterate through the branches of the tree and recursively calls itself on each branch until it reaches the end of the tree. The method returns the highest depth it has reached.
 
-The `RecursiveMethodMeasureDepthLINQ` method uses the LINQ `.Aggregate` method to iterate through the branches of the tree and recursively calls itself on each branch until it reaches the end of the tree. The method returns the highest depth it has reached. This method is faster than the regular `for` loop because it eliminates the need for an index and performs the iteration in one line of code.
+The `RecursiveMethodMeasureDepthLINQ` method uses the LINQ `.Aggregate` method to iterate through the branches of the tree and recursively calls itself on each branch until it reaches the end of the tree. The method returns the highest depth it has reached.
 
 ### Files:
 * **`Program.cs`**: Contains **`Main`** method for the console application and `Branch` class for object declaration.
